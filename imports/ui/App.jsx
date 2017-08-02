@@ -47,10 +47,7 @@ class App extends Component {
         <ul>
           {this.renderTasks()}
         </ul>
-        hold on
-        <ol>
-          {this.renderTasks()}
-        </ol>
+
       </div>
     );
   }
